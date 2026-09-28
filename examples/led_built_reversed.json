@@ -1,0 +1,7 @@
+{"components": [
+  {"id": "V1", "type": "V", "value": 5.0, "pins": {"+": "T+1", "-": "T-1"}},
+  {"id": "W1", "type": "W", "value": null, "pins": {"1": "T+10", "2": "a10"}},
+  {"id": "R1", "type": "R", "value": 330, "pins": {"1": "b10", "2": "b14"}},
+  {"id": "LED1", "type": "LED", "value": null, "pins": {"A": "c17", "K": "c14"}},
+  {"id": "W2", "type": "W", "value": null, "pins": {"1": "d17", "2": "T-17"}}
+ ]}

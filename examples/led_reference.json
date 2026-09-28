@@ -1,0 +1,6 @@
+{"name": "Lab 1 - LED with current-limiting resistor",
+ "components": [
+  {"id": "V1", "type": "V", "value": 5.0, "pins": {"+": "VCC", "-": "GND"}},
+  {"id": "R1", "type": "R", "value": 330, "pins": {"1": "VCC", "2": "N1"}},
+  {"id": "LED1", "type": "LED", "value": null, "pins": {"A": "N1", "K": "GND"}}
+ ]}

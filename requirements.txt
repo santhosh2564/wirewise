@@ -1,0 +1,7 @@
+numpy>=1.24
+onnxruntime-qnn>=1.18 ; platform_machine == "ARM64"
+onnxruntime>=1.18 ; platform_machine != "ARM64"
+onnxruntime-genai>=0.4
+opencv-python>=4.8
+qai-hub-models
+pytest
